@@ -1,0 +1,9 @@
+{
+  "title": "Bienvenue sur SwapMyTalent (SMT)",
+  "subtitle": "La plateforme d'échange de services entre jeunes freelances et auto-entrepreneurs.",
+  "description": "SwapMyTalent vous permet d'échanger vos services professionnels avec d'autres talents, renforçant ainsi votre portfolio, obtenant des avis professionnels et augmentant votre visibilité dans votre domaine d'expertise.",
+  "cta": {
+    "text": "Découvrir les échanges",
+    "link": "/exchange"
+  }
+} 

@@ -1,0 +1,52 @@
+{
+  "home": {
+    "title": "Bienvenue sur SwapMyTalent (SMT)",
+    "subtitle": "La plateforme d'échange de services entre jeunes freelances et auto-entrepreneurs.",
+    "description": "SwapMyTalent vous permet d'échanger vos services professionnels avec d'autres talents, renforçant ainsi votre portfolio, obtenant des avis professionnels et augmentant votre visibilité dans votre domaine d'expertise.",
+    "cta": {
+      "text": "Découvrir les échanges",
+      "link": "/exchange"
+    },
+    "visual": {
+      "type": "image",
+      "src": "/illustration_home_smt.png",
+      "alt": "Illustration du fonctionnement de SwapMyTalent"
+    },
+    "benefits": [
+      {
+        "icon": "💼",
+        "title": "Améliorez votre portfolio",
+        "desc": "Réalisez des projets concrets et enrichissez votre expérience."
+      },
+      {
+        "icon": "🤝",
+        "title": "Élargissez votre réseau",
+        "desc": "Rencontrez d'autres freelances et auto-entrepreneurs."
+      },
+      {
+        "icon": "⭐",
+        "title": "Obtenez des avis pros",
+        "desc": "Recevez des retours et recommandations sur vos prestations."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Sophie, Graphiste",
+        "text": "Grâce à SMT, j'ai pu collaborer avec un développeur et enrichir mon portfolio !"
+      },
+      {
+        "name": "Lucas, Développeur web",
+        "text": "La plateforme m'a permis de rencontrer des partenaires de confiance."
+      }
+    ],
+    "quickLinks": [
+      { "label": "FAQ", "url": "/faq" },
+      { "label": "À propos", "url": "/about" },
+      { "label": "Contact", "url": "/contact" }
+    ],
+    "cta2": {
+      "text": "S'inscrire gratuitement",
+      "link": "/signup"
+    }
+  }
+} 
