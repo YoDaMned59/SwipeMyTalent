@@ -14,29 +14,29 @@
     },
     "benefits": [
       {
-        "icon": "💼",
-        "title": "Améliorez votre portfolio",
-        "desc": "Réalisez des projets concrets et enrichissez votre expérience."
+        "icon": "🎯",
+        "title": "Matching intelligent",
+        "desc": "Trouvez des opportunités qui correspondent à vos compétences"
       },
       {
-        "icon": "🤝",
-        "title": "Élargissez votre réseau",
-        "desc": "Rencontrez d'autres freelances et auto-entrepreneurs."
+        "icon": "⚡",
+        "title": "Rapide et efficace",
+        "desc": "Connectez-vous avec des talents en quelques clics"
       },
       {
-        "icon": "⭐",
-        "title": "Obtenez des avis pros",
-        "desc": "Recevez des retours et recommandations sur vos prestations."
+        "icon": "🔒",
+        "title": "Sécurisé",
+        "desc": "Vos données sont protégées et sécurisées"
       }
     ],
     "testimonials": [
       {
-        "name": "Sophie, Graphiste",
-        "text": "Grâce à SMT, j'ai pu collaborer avec un développeur et enrichir mon portfolio !"
+        "text": "SwipeMyTalent m'a permis de trouver mon job idéal en quelques jours !",
+        "name": "Marie D."
       },
       {
-        "name": "Lucas, Développeur web",
-        "text": "La plateforme m'a permis de rencontrer des partenaires de confiance."
+        "text": "Une plateforme intuitive qui simplifie vraiment le recrutement.",
+        "name": "Thomas L."
       }
     ],
     "quickLinks": [

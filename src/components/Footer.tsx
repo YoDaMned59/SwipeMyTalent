@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import footerLinks from '../data/footerLinks.json';
 
-const Footer = () => {
+const Footer: React.FC = () => {
   return (
     <footer className="bg-secondary py-8 w-full">
       <div className="px-4 sm:px-6 lg:px-8">
@@ -20,9 +19,9 @@ const Footer = () => {
               Liens rapides
             </h4>
             <ul className="space-y-2">
-              <li><a href="#" className="text-text hover:text-primary transition-colors">Accueil</a></li>
-              <li><a href="#" className="text-text hover:text-primary transition-colors">À propos</a></li>
-              <li><a href="#" className="text-text hover:text-primary transition-colors">Contact</a></li>
+              <li><Link to="/" className="text-text hover:text-primary transition-colors">Accueil</Link></li>
+              <li><Link to="/about" className="text-text hover:text-primary transition-colors">À propos</Link></li>
+              <li><Link to="/contact" className="text-text hover:text-primary transition-colors">Contact</Link></li>
             </ul>
           </div>
           <div>
